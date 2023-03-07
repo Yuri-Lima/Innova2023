@@ -1,0 +1,9 @@
+{
+    "cashback_reminder": {
+        "name": "Reminder 1",
+        "description": "Reminder 1 description",
+        "daysRiminder": 30,
+        "status": "true",
+        "type": "cashback reminder"
+    }
+}

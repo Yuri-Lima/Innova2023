@@ -1,0 +1,298 @@
+{
+    "id": 39820,
+    "parent_id": 0,
+    "status": "on-hold",
+    "currency": "BRL",
+    "version": "7.2.0",
+    "prices_include_tax": true,
+    "date_created": "2022-12-15T04:57:02",
+    "date_modified": "2022-12-15T04:57:03",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "0.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "389.80",
+    "total_tax": "0.00",
+    "customer_id": 316,
+    "order_key": "wc_order_V0jIiiWgix99n",
+    "billing": {
+        "first_name": "Yuri",
+        "last_name": "Lima",
+        "company": "",
+        "address_1": "aaaassss",
+        "address_2": "",
+        "city": "aaaaaaa",
+        "state": "SC",
+        "postcode": "88111-320",
+        "country": "BR",
+        "email": "yuri@innovacestas.com.br",
+        "phone": "558596859001",
+        "payment": "",
+        "billing_cpf": "024.903.693-26",
+        "billing_cnpj": "",
+        "billing_company": "",
+        "space": "",
+        "delivery": "",
+        "billing_recipient": "Lima TESTE",
+        "billing_recipient_phone": "558596859001",
+        "billing_number": "220",
+        "billing_complementary": "aaaaa",
+        "billing_neighborhood": "aaaaaa",
+        "billing_msg": "asdasd",
+        "space_2": "",
+        "number": "220",
+        "neighborhood": "aaaaaa",
+        "persontype": "F",
+        "cpf": "02490369326",
+        "rg": "",
+        "cnpj": "",
+        "ie": "",
+        "birthdate": "",
+        "sex": "",
+        "cellphone": "",
+        "middle_name": null,
+        "full_name": "Yuri Lima",
+        "billing_recipient_first_name": "Lima",
+        "billing_recipient_middle_name": "TESTE",
+        "billing_recipient_last_name": null,
+        "billing_recipient_full_name": "Lima TESTE"
+    },
+    "shipping": {
+        "first_name": "",
+        "last_name": "",
+        "company": "",
+        "address_1": "",
+        "address_2": "",
+        "city": "",
+        "state": "",
+        "postcode": "",
+        "country": "",
+        "phone": "",
+        "number": "",
+        "neighborhood": ""
+    },
+    "payment_method": "bacs",
+    "payment_method_title": "PIX ou Transferência <img src=\"https://innovacestas.com.br/development/wp-content/uploads/2021/10/PIX.png\" />",
+    "transaction_id": "",
+    "customer_ip_address": "86.42.6.128",
+    "customer_user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "6e89387145a75a5aedbad2195efbc3a3",
+    "number": "39820",
+    "meta_data": [
+        {
+            "id": 1117907,
+            "key": "_billing_persontype",
+            "value": "1"
+        },
+        {
+            "id": 1117908,
+            "key": "_billing_cpf",
+            "value": "024.903.693-26"
+        },
+        {
+            "id": 1117909,
+            "key": "_billing_cnpj",
+            "value": ""
+        },
+        {
+            "id": 1117910,
+            "key": "_billing_recipient",
+            "value": "Lima TESTE"
+        },
+        {
+            "id": 1117911,
+            "key": "_billing_recipient_phone",
+            "value": "🇧🇷 (85) 99685-9001"
+        },
+        {
+            "id": 1117912,
+            "key": "_billing_number",
+            "value": "220"
+        },
+        {
+            "id": 1117913,
+            "key": "_billing_complementary",
+            "value": "aaaaa"
+        },
+        {
+            "id": 1117914,
+            "key": "_billing_neighborhood",
+            "value": "aaaaaa"
+        },
+        {
+            "id": 1117915,
+            "key": "_billing_msg",
+            "value": "asdasd"
+        },
+        {
+            "id": 1117916,
+            "key": "is_vat_exempt",
+            "value": "no"
+        },
+        {
+            "id": 1117917,
+            "key": "_thwcfe_ship_to_billing",
+            "value": "1"
+        },
+        {
+            "id": 1117918,
+            "key": "_thwcfe_disabled_fields",
+            "value": "time_celebration,delivery_alert"
+        },
+        {
+            "id": 1117919,
+            "key": "billing_cpf",
+            "value": "024.903.693-26"
+        },
+        {
+            "id": 1117920,
+            "key": "billing_recipient",
+            "value": "Lima TESTE"
+        },
+        {
+            "id": 1117921,
+            "key": "billing_recipient_phone",
+            "value": "🇧🇷 (85) 99685-9001"
+        },
+        {
+            "id": 1117922,
+            "key": "billing_number",
+            "value": "220"
+        },
+        {
+            "id": 1117923,
+            "key": "billing_complementary",
+            "value": "aaaaa"
+        },
+        {
+            "id": 1117924,
+            "key": "billing_neighborhood",
+            "value": "aaaaaa"
+        },
+        {
+            "id": 1117925,
+            "key": "billing_msg",
+            "value": "asdasd"
+        },
+        {
+            "id": 1117926,
+            "key": "date",
+            "value": "15/12/2022"
+        },
+        {
+            "id": 1117927,
+            "key": "time",
+            "value": "Horário Comercial"
+        },
+        {
+            "id": 1117928,
+            "key": "_ga_tracked",
+            "value": "1"
+        }
+    ],
+    "line_items": [
+        {
+            "id": 21409,
+            "name": "Cesta Clássica Florianópolis",
+            "product_id": 2041,
+            "variation_id": 0,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "199.90",
+            "subtotal_tax": "0.00",
+            "total": "199.90",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [],
+            "sku": "",
+            "price": 199.9,
+            "image": {
+                "id": "33642",
+                "src": "https://innovacestas.com.br/development/wp-content/uploads/2021/11/Cesta-Classica-Florianopolis.png"
+            },
+            "parent_name": null
+        },
+        {
+            "id": 21410,
+            "name": "Coroa de flores",
+            "product_id": 2048,
+            "variation_id": 0,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "189.90",
+            "subtotal_tax": "0.00",
+            "total": "189.90",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [],
+            "sku": "",
+            "price": 189.9,
+            "image": {
+                "id": "38253",
+                "src": "https://innovacestas.com.br/development/wp-content/uploads/2020/06/cafe-e-flor.png"
+            },
+            "parent_name": null
+        }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+        {
+            "id": 21411,
+            "method_title": "Frete Grátis",
+            "method_id": "free_shipping",
+            "instance_id": "35",
+            "total": "0.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 174523,
+                    "key": "Itens",
+                    "value": "Cesta Clássica Florianópolis &times; 1, Caixa Café e Flor &times; 1",
+                    "display_key": "Itens",
+                    "display_value": "Cesta Clássica Florianópolis &times; 1, Caixa Café e Flor &times; 1"
+                }
+            ]
+        }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "payment_url": "https://innovacestas.com.br/development/finalizar-compra/order-pay/39820/?pay_for_order=true&key=wc_order_V0jIiiWgix99n",
+    "is_editable": true,
+    "needs_payment": false,
+    "date_created_gmt": "2022-12-15T07:57:02",
+    "date_modified_gmt": "2022-12-15T07:57:03",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "schedule": {
+        "date": "15/12/2022",
+        "time": "Horário Comercial",
+        "time_celebration": "",
+        "delivery_alert": "",
+        "space_3": ""
+    },
+    "currrency_symbol": "R$",
+    "_links": {
+        "self": [
+            {
+                "href": "https://innovacestas.com.br/development/wp-json/wc/v3/orders/39820"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://innovacestas.com.br/development/wp-json/wc/v3/orders"
+            }
+        ],
+        "customer": [
+            {
+                "href": "https://innovacestas.com.br/development/wp-json/wc/v3/customers/316"
+            }
+        ]
+    }
+}

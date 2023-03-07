@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    /* Projects */
+    "incremental": true,                              /* Save .tsbuildinfo files to allow for incremental compilation of projects. */
+    "target": "es2016",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "experimentalDecorators": true,                   /* Enable experimental support for TC39 stage 2 draft decorators. */
+    "emitDecoratorMetadata": true,                    /* Emit design-type metadata for decorated declarations in source files. */
+    "module": "commonjs",                                /* Specify what module code is generated. */
+    "rootDir": "../server/",                                  /* Specify the root folder within your source files. */
+    "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
+    "baseUrl": "../server/",                                  /* Specify the base directory to resolve non-relative module names. */
+    "resolveJsonModule": true,                        /* Enable importing .json files. */
+    "allowJs": true,                                  /* Allow JavaScript files to be a part of your program. Use the 'checkJS' option to get errors from these files. */
+    "declaration": true,                              /* Generate .d.ts files from TypeScript and JavaScript files in your project. */
+    "declarationMap": true,                           /* Create sourcemaps for d.ts files. */
+    "sourceMap": true,                                /* Create source map files for emitted JavaScript files. */
+    "outDir": "../server/dist/",                                   /* Specify an output folder for all emitted files. */
+    "removeComments": true,                           /* Disable emitting comments. */
+    "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
+    "strict": true,                                      /* Enable all strict type-checking options. */
+    "noUnusedLocals": true,                           /* Enable error reporting when local variables aren't read. */
+    "noUnusedParameters": true,                       /* Raise an error when a function parameter isn't read. */
+    "skipLibCheck": true,                                 /* Skip type checking all .d.ts files. */
+    "typeRoots": [
+      "../server/node_modules/@types",
+      "../src/types/*"
+    ],
+  },
+  "include": [
+    "../server/src/**/*.*",
+    "../server/src/credentials/*.json", "test/app.spec.ts",
+    "../server/src/public/**/*.*",
+    "../server/config",
+  ],
+  "exclude": [
+    // "../server/config",
+    "../server/dist",
+    "../server/ecosystem.config",
+  ],
+  "ts-node": {
+    "files": true,
+    "transpileOnly": true, // set to true if you don't need type checking
+    "pretty": true // set to true if you want to see the pretty output
+  }
+}

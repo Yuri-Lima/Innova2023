@@ -1,0 +1,62 @@
+{
+    "company": [ 
+        {
+            "name": "Company Name 1",
+            "address": ["ObjectId('5f1b1b1b1b1b1b1b1b1b1b1b')", "ObjectId('5f1b1b1b1b1b1b1b1b1b1b1b')"],
+            "phone": ["ObjectId('5f1b1b1b1b1b1b1b1b1b1b1b')", "ObjectId('5f1b1b1b1b1b1b1b1b1b1b1b')"],
+            "email": "Company Email 1",
+            "website": "Company Website 1",
+            "logo": {
+                "name": "Company Logo Name 1",
+                "url": "Company Logo Url 1"
+            },
+            "lat": 40.123456,
+            "lng": -73.123456,
+            "openhours": {
+                "mon": {
+                    "open": "9:00",
+                    "close": "17:00"
+                },
+                "tue": {
+                    "open": "9:00",
+                    "close": "17:00"
+                },
+                "wed": {
+                    "open": "9:00",
+                    "close": "17:00"
+                },
+                "thu": {
+                    "open": "9:00",
+                    "close": "17:00"
+                },
+                "fri": {
+                    "open": "9:00",
+                    "close": "17:00"
+                },
+                "sat": {
+                    "open": "9:00",
+                    "close": "17:00"
+                },
+                "sun": {
+                    "open": "9:00",
+                    "close": "17:00"
+                }
+            }
+        },
+        {
+            "name": "Company Name 2",
+            "fake": "Company Fake 2",
+            "address": ["ObjectId('5f1b1b1b1b1b1b1b1b1b1b1b')", "ObjectId('5f1b1b1b1b1b1b1b1b1b1b1b')"],
+            "phone": ["ObjectId('5f1b1b1b1b1b1b1b1b1b1b1b')", "ObjectId('5f1b1b1b1b1b1b1b1b1b1b1b')"],
+            "email": "Company Email 2",
+            "website": "Company Website 2",
+            "logo": {
+                "name": "Company Logo Name 2",
+                "url": "Company Logo Url 2"
+            },
+            "lat": 40.123456,
+            "lng": -73.123456,
+            "hours": "Mon-Sat 9am-9pm"
+        }
+    ]
+}

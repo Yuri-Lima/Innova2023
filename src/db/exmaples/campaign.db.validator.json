@@ -1,0 +1,13 @@
+{
+    "campaigns": [
+        {
+            "name": "Campaign 1",
+            "description": "Campaign 1 description",
+            "start_date": "2017-01-01",
+            "end_date": "2017-01-31",
+            "status": "true",
+            "type": "cashback",
+            "reminders":["ObjectId('5a1b1b1b1b1b1b1b1b1b1b1b')", "ObjectId('5a1b1b1b1b1b1b1b1b1b1b1b')"]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "stores": [
+        {
+            "name": "Store 1",
+            "company": "ObjectId(1234567890)",
+            "phone": "ObjectId(1234567890)",
+            "authentication": {
+                "url": "https://www.store1.com",
+                "consumer_key": "ck_xxxxxxxxxxxxxxxx",
+                "consumer_secret": "cs_xxxxxxxxxxxxxxxx",
+                "version": "wc/v3"
+            },
+            "campaigns": ["ObjectId(1234567890)", "ObjectId(1234567890)", "ObjectId(1234567890)"],
+            "status": "true"
+                            
+        },
+        {
+            "name": "Store 2",
+            "company": "ObjectId(1234567890)",
+            "phone": "ObjectId(1234567890)",
+            "authentication": {
+                "url": "https://www.store2.com",
+                "consumer_key": "ck_xxxxxxxxxxxxxxxx",
+                "consumer_secret": "cs_xxxxxxxxxxxxxxxx",
+                "version": "wc/v3"
+            },
+            "campaigns": ["ObjectId(1234567890)", "ObjectId(1234567890)", "ObjectId(1234567890)"],
+            "status": "true"
+        }
+    ]
+}

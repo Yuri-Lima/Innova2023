@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "name": "Project 1",
+            "integrationType": "WC",
+            "stores": ["ObjectId('5b9b1b0b4b6b9c0b8c8b4567')", "ObjectId('5b9b1b0b4b6b9c0b8c8b4568')"],
+            "uatiz": ["ObjectId('5b9b1b0b4b6b9c0b8c8b4567')"]
+        },
+        {
+            "name": "Project 2",
+            "integrationType": "WC",
+            "stores": ["ObjectId('5b9b1b0b4b6b9c0b8c8b4569')", "ObjectId('5b9b1b0b4b6b9c0b8c8b456a')"],
+            "uatiz": ["ObjectId('5b9b1b0b4b6b9c0b8c8b4567')"]
+        }
+    ]
+}

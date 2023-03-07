@@ -1,0 +1,11 @@
+{
+    "address": {
+            "address1": "123 Main St",
+            "address2": "Apt 1",
+            "city": "San Francisco",
+            "state": "CA",
+            "zip": "94105",
+            "country": "US",
+            "status": true
+        }
+}

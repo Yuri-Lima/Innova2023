@@ -1,0 +1,18 @@
+{
+    "message": "User found successfully",
+    "user": {
+        "_id": "63e83a108e508145c0482374",
+        "email": "y.m.lima19@gmail.com",
+        "firstName": "oliver",
+        "middleName": "hayes",
+        "lastName": "monahan",
+        "password": "$argon2id$v=19$m=65536,t=3,p=4$ks+935jQsuHWTAJd1PTd9g$XOOgqfCrqjLDRpXebBvdOF6vHOVA+TJwdmlr7rRN1b4",
+        "isVerified": true,
+        "verificationCode": "7e7d9cb0-b636-41c3-b9ab-fe5530d2ffca",
+        "createdAt": "2023-02-12T01:00:00.722Z",
+        "updatedAt": "2023-03-01T22:34:36.264Z",
+        "__v": 0,
+        "passwordResetCode": "4f012106-3e2d-4e1b-ae7c-b720f45b1ab6"
+    },
+    "responseID": "3eb1d697-5046-4500-a08a-0638fb31dfcd"
+}

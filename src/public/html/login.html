@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Social Ligin</h1>
+<!-- Login oAuth -->
+    <div class="login">
+        <a href="/auth/google">Login with Google</a>
+    </div>
+    <!-- Scripts -->
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js" integrity="sha384-/KNQL8Nu5gCHLqwqfQjA689Hhoqgi2S84SNUxC3roTe4EhJ9AfLkp8QiQcU8AMzI" crossorigin="anonymous"></script>
+    <script >
+        const socket = io('https://innovaapi.yurilima.uk',
+            {
+                transports: ["websocket", "polling"],
+            }
+        );
+        socket.on('connect', () => {
+            console.log('Connected');
+        }).emit('message', 'Hello World from the Client');
+        socket.on('disconnect', () => {
+            console.log('Disconnected');
+        });
+        socket.on('message', (data) => {
+            console.log(data);
+        });
+        socket.on('uatiz', (data) => {
+            console.log(data);
+        });
+        socket.emit('uatiz','uatiz Hello World from the Client');
+    </script>
+</body>
+</html>

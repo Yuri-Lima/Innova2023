@@ -1,0 +1,12 @@
+[
+    {
+        "wid": "number1",
+        "status": "DESCONECTED",
+        "actived": true
+    },
+    {
+        "wid": "number2",
+        "status": "DESCONECTED",
+        "actived": true
+    }
+]

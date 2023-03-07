@@ -1,0 +1,23 @@
+{
+    "cashback": {
+        "description": "Cashback",
+        "prefix_coupon": "CASHBACK",
+        "coupon_code": "CASHBACK",
+        "type": "cashback",
+        "amount": 10,
+        "discount_type": "percent",
+        "individual_use": true,
+        "exclude_sale_items": true,
+        "minimum_amount": 0,
+        "maximum_amount": 0,
+        "email_restrictions": null,
+        "usage_limit": null,
+        "usage_limit_per_user": null,
+        "limit_usage_to_x_items": null,
+        "free_shipping": false,
+        "product_categories": [],
+        "excluded_product_categories": [],
+        "product_ids": [],
+        "usage_count": 0
+    }
+}

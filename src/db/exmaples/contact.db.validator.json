@@ -1,0 +1,81 @@
+{
+    "phone": [
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "mobile",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "home",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "work",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "whatsapp",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "telegram",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "production",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "support",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "billing",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "sales",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "marketing",
+            "status": "true",
+            "countryCode": "+55"
+        },
+        {
+            "user": "123456789123456789",
+            "number": "1234567890",
+            "type": "other",
+            "status": "true",
+            "countryCode": "+55"
+        }
+    ]
+}
